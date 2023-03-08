@@ -5,16 +5,16 @@
 The World Happiness Report was first released at an event at the UN on International Happiness Day on March 20, eventually becoming an annual report.  The report continues to gain global recognition because it provides necessary data to researchers and policymakers to plan for the well-being and happiness of the citizens.
 The happiness scores and rankings use data from the Gallup World Poll.  Citizens or respondents are then asked to answer questions known as the Cantil ladder, with the best possible life for them being a 10 and the worst possible life being a 0.  The questions are split into the following categories or columns:
 
-    1.	Life Ladder
-    2.	Generosity
-    3.	GDP per Capita
-    4.	Freedom to Make Life Choices
-    5.	Perceptions of Corruption
-    6.	Social Support
-    7.  Health life expectancy at birth
-    8.  Positive Effects
-    9.  Negative Effects
-    10. Confidence in national government
+         1.	Life Ladder    
+         2.	Generosity    
+         3.	GDP per Capita    
+         4.	Freedom to Make Life Choices
+         5.	Perceptions of Corruption
+         6.	Social Support
+         7.  Health life expectancy at birth
+         8.  Positive Effects
+         9.  Negative Effects
+         10. Confidence in national government
 
 These factors are essential to impacting the total score reported for each country because they explain why some countries rank higher than others.
 
@@ -27,9 +27,9 @@ The chosen dataset for this project is oriented around the concept of happiness,
 
 To answer the question and analyze to get the answers we need, we will need to go through the following workflow:
 
-1.PostgreSQL
-2.
-3.
+     1.PostgreSQL
+     2.
+     3.
 
 
 
