@@ -5,12 +5,12 @@
 The World Happiness Report was first released at an event at the UN on International Happiness Day on March 20, eventually becoming an annual report.  The report continues to gain global recognition because it provides necessary data to researchers and policymakers to plan for the well-being and happiness of the citizens.
 The happiness scores and rankings use data from the Gallup World Poll.  Citizens or respondents are then asked to answer questions known as the Cantil ladder, with the best possible life for them being a 10 and the worst possible life being a 0.  The questions are split into the following categories or columns:
 
-         1.	Life Ladder    
-         2.	Generosity    
-         3.	GDP per Capita    
-         4.	Freedom to Make Life Choices
-         5.	Perceptions of Corruption
-         6.	Social Support
+         1.  Life Ladder    
+         2.  Generosity    
+         3.  GDP per Capita    
+         4.  Freedom to Make Life Choices
+         5.  Perceptions of Corruption
+         6.  Social Support
          7.  Health life expectancy at birth
          8.  Positive Effects
          9.  Negative Effects
@@ -25,14 +25,14 @@ The chosen dataset for this project is oriented around the concept of happiness,
 
 ## Technology Overview or Workflow:
 
-To answer the question and analyze to get the answers we need, we will need to go through the following workflow:
+To answer the question and to get the answers we need, we will need to go through the following workflow:
 
-     1.PostgreSQL
-     2.
-     3.
-
-
-
+     1. A CVS file was downloaded from The World Happiness Report website.  The file contained data for various countries from 2008 to 2021. 
+        The country data was extracted from the file and matched with a country list that included regions and sun regions. 
+        The database schema was created using the QuickDBD website.
+     2. A Postgres database was created on AWS that contains a country table with region information and the happiness scores for each country and year.
+     3. A mockup of the data was created in Excel along is numbers and foreign key numbers.  The data was exported into 2 separate files, one with the, 
+        country data and one with the happiness data. The files were then imported into the corresponding Postgres tables.
 
 ## Data:
 
