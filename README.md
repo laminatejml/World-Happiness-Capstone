@@ -42,6 +42,38 @@ To answer the question and to get the answers we need, we will need to go throug
     
 ## Happiness Report Visualization:
 
+### Happiness and Life Ladder:
+Life Ladder impacts the happiness report, as we can see in the chart.  And if we look at the heatmap chart, we can see that there’s also a good impact between the life ladder and happiness.
+![life ladder](https://user-images.githubusercontent.com/114379268/225767757-9ff0ada3-bfa7-470d-ae5d-aa5fbf3a64f7.png)
+
+### Happiness and GDP (Economy):
+Happiness has a good impact on the Economy in many regions of the world.  As you can see in the graph above, most of these regions are in North America, which is unsurprising, as the USA and Canada are known for their excellent economy.  Also, Eastern Asia and East Europe were ranked high on the chart.  The regions that ranked low were Sub-saharan Africa and Latin America, and the Caribbean. 
+
+### Happiness and Social Support:
+Social Support had some impact on happiness.  Southeastern Asia had the highest ranks, while Sub-saharan Africa had the lowest.
+![social studies 1](https://user-images.githubusercontent.com/114379268/225768181-ee80d34f-bf3f-42cf-b436-e215e17f1cf6.png)
+
+### Happiness and Healthy Life:
+Happiness and a healthy life go together very well.  Every region scored high; they are all very close in their ranks.  The highest are East and West Europe, followed by Australia and New Zealand.  And the lowest, not by much, was Sub-Saharan and west Africa.
+![health](https://user-images.githubusercontent.com/114379268/225768330-9661fc7d-05c5-44d9-9e04-1580e1d5863e.png)
+
+### Happiness and Freedom to Make life Choices:
+Freedom to make life choices had the highest impact on the happiness report.  If we look at the heatmap, it had a high correlation with the happiness score.
+
+![freedom to make life choices](https://user-images.githubusercontent.com/114379268/225768463-4c632936-1693-4025-a743-53508245f6a7.png)
+
+### Happiness and Generosity:
+Generosity didn’t impact the happiness report much, but it's a big deal to some countries and regions.  The European Region had the highest generosity rate, while Africa scored low.
+![generosity](https://user-images.githubusercontent.com/114379268/225768548-a8b97aa7-584b-4556-b2b8-e48254ade40b.png)
+
+### Happiness and Corruption:
+I used the Dataframe.groupby().mean() to get the results for the corruption visualization data.  As we can see from the chart above, Australia and New Zealand have the highest corruption rates, while West Europe and Western Asia have the lowest corruption rates.
+![corruption](https://user-images.githubusercontent.com/114379268/225768650-24a61a7e-d882-4c6d-a01c-9cad705fa741.png)
+
+### Happiness and Confidence in National Government:
+Many of the countries trusted their surprising governments.  Northern America was the region that came on top; the lowest areas were Latin America, the Caribbean, and Central Asia.
+![government](https://user-images.githubusercontent.com/114379268/225768731-e0d915ad-424b-4b25-84d1-812ad88ef9d8.png)
+
 
 ## Data:
 
