@@ -21,7 +21,7 @@ These factors are essential to impacting the total score reported for each count
 
 ## Purpose of the Project:
 
-The chosen dataset for this project is oriented around the concept of happiness, more specifically, citizen happiness by country. In this instance, the way Happiness was measured was based on several metrics, including but not limited to freedom, strength of a nation’s economy, and levels of government corruption. For this project, we asked ourselves two questions: What metrics bear the biggest impact on the happiness of a country?  With the provided metrics for happiness in mind, we are confident that we can accurately predict the future happiness levels of the listed countries to a substantial degree of precision.
+The chosen dataset for this project is oriented around the concept of happiness, more specifically, citizen happiness by country. In this instance, the way Happiness was measured was based on several metrics, including but not limited to freedom, strength of a nation’s economy, and levels of government corruption. For this project, we asked ourselves a question: What metrics bear the biggest impact on the happiness of a country?  With the provided metrics for happiness in mind, we are confident that we can accurately predict the future happiness levels of the listed countries to a substantial degree of precision.
 
 
 ## Technology Overview:
