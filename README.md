@@ -7,13 +7,13 @@ The happiness scores and rankings use data from the Gallup World Poll.  Citizens
 
          1.  Life Ladder: happiness index
          2.  Generosity: how generosity helps a person become happy.   
-         3.  GDP per Capita: gross domestice product per capita.  Measuring a country's economy per person's output.  
-         4.  Freedom to Make Life Choices: people have more freedom to make their own chocies in the country they live in.
+         3.  GDP per Capita:gross domestice product per capita. Measures the approx value of the country's GDP being contributed to each citizen.  
+         4.  Freedom to Make Life Choices: people have more freedom to make their own choices in the country they live in.
          5.  Perceptions of Corruption: measures that rates countries based on their perceived level of corruption.
-         6.  Social Support: to have a family, friends and social life.
+         6.  Social Support: to have a family, friends, and social life.
          7.  Healthy life expectancy at birth: years of healthy life.
-         8.  Positive Effects
-         9.  Negative Effects
+         8.  Positive Effects: measures positive effects.
+         9.  Negative Effects: measure negative effects.
          10. Confidence in national government: people having confidence in their own country.
          11. happiness_score: the higher the score is, the happier the country is.
 
@@ -39,6 +39,8 @@ To answer the question and to get the answers we need, we will need to go throug
     3. A mockup of the data was created in Excel along is numbers and foreigvitaley numbers.  The data was exported into 2 separate 
     files, one with the, country data and one with the happiness data. The files were then imported into the corresponding
     Postgres tables.
+    
+## Happiness Report Visualization:
 
 
 ## Data:
