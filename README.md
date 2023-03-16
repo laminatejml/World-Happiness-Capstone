@@ -5,16 +5,17 @@
 The World Happiness Report was first released at an event at the UN on International Happiness Day on March 20, eventually becoming an annual report.  The report continues to gain global recognition because it provides necessary data to researchers and policymakers to plan for the well-being and happiness of the citizens.
 The happiness scores and rankings use data from the Gallup World Poll.  Citizens or respondents are then asked to answer questions known as the Cantil ladder, with the best possible life for them being a 10 and the worst possible life being a 0.  The questions are split into the following categories or columns:
 
-         1.  Life Ladder    
-         2.  Generosity    
-         3.  GDP per Capita    
-         4.  Freedom to Make Life Choices
-         5.  Perceptions of Corruption
-         6.  Social Support
-         7.  Health life expectancy at birth
+         1.  Life Ladder: happiness index
+         2.  Generosity: how generosity helps a person become happy.   
+         3.  GDP per Capita: gross domestice product per capita.  Measuring a country's economy per person's output.  
+         4.  Freedom to Make Life Choices: people have more freedom to make their own chocies in the country they live in.
+         5.  Perceptions of Corruption: measures that rates countries based on their perceived level of corruption.
+         6.  Social Support: to have a family, friends and social life.
+         7.  Healthy life expectancy at birth: years of healthy life.
          8.  Positive Effects
          9.  Negative Effects
-         10. Confidence in national government
+         10. Confidence in national government: people having confidence in their own country.
+         11. happiness_score: the higher the score is, the happier the country is.
 
 These factors are essential to impacting the total score reported for each country because they explain why some countries rank higher than others.
 
@@ -27,7 +28,7 @@ The chosen dataset for this project is oriented around the concept of happiness,
 
 To answer the question and to get the answers we need, we will need to go through the following workflow:
 
-    1. A CSV file was downloaded from The World Happiness Report website.  The file contained data for various countries 
+   from A CSV file was downloaded from The World Happiness Report website.  The file contained data for various countries 
     from 2008 to 2021. The country data was extracted from the file and matched with a country list that included regions
     and sun regions. The database schema was created using the QuickDBD website.
 ![schema](https://user-images.githubusercontent.com/110853496/224196018-3475a502-c982-4cc5-9f9e-bd1d3109e05b.png)
@@ -35,7 +36,7 @@ To answer the question and to get the answers we need, we will need to go throug
     2. A Postgres database was created on AWS that contains a country table with region information and the happiness scores 
     for each country and year.
     
-    3. A mockup of the data was created in Excel along is numbers and foreign key numbers.  The data was exported into 2 separate 
+    3. A mockup of the data was created in Excel along is numbers and foreigvitaley numbers.  The data was exported into 2 separate 
     files, one with the, country data and one with the happiness data. The files were then imported into the corresponding
     Postgres tables.
 
