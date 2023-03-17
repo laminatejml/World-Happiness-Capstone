@@ -1,0 +1,21 @@
+
+body {
+    color: #f2eaed;
+  }
+  
+  .jumbotron {
+    background-image: url("C:\\Users\\relam\\Class\\World-Happiness-Capstone\\json conversion\\data converter\\static\\images\\world_happiness.jpg");
+    background-size: 100% 100%;
+    text-align: left;
+  }
+  
+  .article-title, .article-p {
+    padding: 20px;
+  }
+  form {
+    padding: 5px;
+  }
+  
+  #filter-btn {
+    width: 100%;
+  }
