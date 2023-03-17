@@ -70,6 +70,8 @@ Life Ladder impacts the happiness report, as we can see in the chart.  And if we
 ### Happiness and GDP (Economy):
 Happiness has a good impact on the Economy in many regions of the world.  As you can see in the graph above, most of these regions are in North America, which is unsurprising, as the USA and Canada are known for their excellent economy.  Also, Eastern Asia and East Europe were ranked high on the chart.  The regions that ranked low were Sub-saharan Africa and Latin America, and the Caribbean. 
 
+![economy](https://user-images.githubusercontent.com/114379268/225800752-1a0ebbf5-e192-439f-b875-bc9946a74141.png)
+
 ### Happiness and Social Support:
 Social Support had some impact on happiness.  Southeastern Asia had the highest ranks, while Sub-saharan Africa had the lowest.
 ![social studies 1](https://user-images.githubusercontent.com/114379268/225768181-ee80d34f-bf3f-42cf-b436-e215e17f1cf6.png)
