@@ -53,7 +53,7 @@ To answer the question and to get the answers we need, we will need to go throug
          
     6.The data was then split into test and training and fit to a Random Forrest model. 
     
-[Random Forrest Notebook](Notebook/Happiness-RandomForrest.ipynb)
+[Happiness-RandomForrest Jupyter Notebook](Notebook/Happiness-RandomForrest.ipynb)
 
 ![report](https://user-images.githubusercontent.com/110853496/225783515-e4270114-f2aa-49be-bd0c-35767c64c535.png)
 
