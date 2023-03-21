@@ -63,39 +63,18 @@ To answer the question and to get the answers we need, we will need to go throug
 
 ## Happiness Report Visualization:
 
-### Happiness and Life Ladder:
-Life Ladder impacts the happiness report, as we can see in the chart.  And if we look at the heatmap chart, we can see that there’s also a good impact between the life ladder and happiness.
-![life ladder](https://user-images.githubusercontent.com/114379268/225767757-9ff0ada3-bfa7-470d-ae5d-aa5fbf3a64f7.png)
+Data analysis and visualization applied to the world happiness report.  The world happiness report is a landmark survey organizations and governments use, and civil societies increasingly use happiness reports to inform their policy-making decisions.  The report surveys include economic, social, and health, the most critical questions applied to humans. 
 
-### Happiness and GDP (Economy):
-Happiness has a good impact on the Economy in many regions of the world.  As you can see in the graph above, most of these regions are in North America, which is unsurprising, as the USA and Canada are known for their excellent economy.  Also, Eastern Asia and East Europe were ranked high on the chart.  The regions that ranked low were Sub-saharan Africa and Latin America, and the Caribbean. 
+![heatmap](https://user-images.githubusercontent.com/114379268/226523145-9dad5077-d3af-4ac2-8045-d4e22934d763.png)
 
-![economy](https://user-images.githubusercontent.com/114379268/225800752-1a0ebbf5-e192-439f-b875-bc9946a74141.png)
+The heatmap above shows that life ladder, gdp per capita, freedom to make choices, healthy life, generosity, perception of corruption, social support, and confidence in the government all contribute to the happiness score.  Most categories scored between vmin=-0.50 and vmin=-1.00
 
-### Happiness and Social Support:
-Social Support had some impact on happiness.  Southeastern Asia had the highest ranks, while Sub-saharan Africa had the lowest.
-![social studies 1](https://user-images.githubusercontent.com/114379268/225768181-ee80d34f-bf3f-42cf-b436-e215e17f1cf6.png)
+![heatmap2](https://user-images.githubusercontent.com/114379268/226523245-12819f5a-bca3-4114-99e5-0750a0b817f9.png)
 
-### Happiness and Healthy Life:
-Happiness and a healthy life go together very well.  Every region scored high; they are all very close in their ranks.  The highest are East and West Europe, followed by Australia and New Zealand.  And the lowest, not by much, was Sub-Saharan and west Africa.
-![health](https://user-images.githubusercontent.com/114379268/225768330-9661fc7d-05c5-44d9-9e04-1580e1d5863e.png)
+The heatmap above shows that life ladder, gdp per capita, freedom to make choices, healthy life, generosity, perception of corruption, social support, and confidence in the government all contribute to the happiness score. However, people's perceptions of corruption and the freedom to make life choices scored higher.
 
-### Happiness and Freedom to Make life Choices:
-Freedom to make life choices had the highest impact on the happiness report.  If we look at the heatmap, it had a high correlation with the happiness score.
-
-![freedom to make life choices](https://user-images.githubusercontent.com/114379268/225768463-4c632936-1693-4025-a743-53508245f6a7.png)
-
-### Happiness and Generosity:
-Generosity didn’t impact the happiness report much, but it's a big deal to some countries and regions.  The European Region had the highest generosity rate, while Africa scored low.
-![generosity](https://user-images.githubusercontent.com/114379268/225768548-a8b97aa7-584b-4556-b2b8-e48254ade40b.png)
-
-### Happiness and Corruption:
-I used the Dataframe.groupby().mean() to get the results for the corruption visualization data.  As we can see from the chart above, Australia and New Zealand have the highest corruption rates, while West Europe and Western Asia have the lowest corruption rates.
-![corruption](https://user-images.githubusercontent.com/114379268/225768650-24a61a7e-d882-4c6d-a01c-9cad705fa741.png)
-
-### Happiness and Confidence in National Government:
-Many of the countries trusted their surprising governments.  Northern America was the region that came on top; the lowest areas were Latin America, the Caribbean, and Central Asia.
-![government](https://user-images.githubusercontent.com/114379268/225768731-e0d915ad-424b-4b25-84d1-812ad88ef9d8.png)
+### Summary:
+The following columns: GDP per Capita, Life ladder, Social Support, Healthy life expectancy, Freedom to make life choices, Generosity, and Perceptions of Government corruption, describe the extent to which these factors contribute to evaluating the happiness in each country. After conducting the visual analysis for the world happiness report from (2015-2021), the scores of these factors differed for each country and each region. But Western Europe, Australia/New Zealand dominated the top of the charts in most of the categories.  While countries such as Afghanistan, listed as one of the bottom ten countries, consistently scored low within its region in most categories.  While these factors were an essential part of the evaluations of happiness reports, many other variables influence life satisfaction, but they are hard to measure perfectly.
 
 
 ## Data:
