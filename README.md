@@ -76,9 +76,11 @@ The heatmap above shows that life ladder, gdp per capita, freedom to make choice
 ## Summary:
 The following columns: GDP per Capita, Life ladder, Social Support, Healthy life expectancy, Freedom to make life choices, Generosity, and Perceptions of Government corruption, describe the extent to which these factors contribute to evaluating the happiness in each country. After conducting the visual analysis for the world happiness report from (2015-2021), the scores of these factors differed for each country and each region. But Northern and Western Europe, Australia/New Zealand dominated the top of the charts in most of the categories.  While countries such as Afghanistan and Lebanon, listed as one of the bottom ten countries, consistently scored low within their region in most categories.  While these factors were an essential part of the evaluations of happiness reports, many other variables influence life satisfaction, but they are hard to measure perfectly.
 
+## Dashboard
+https://public.tableau.com/app/profile/samira.hassan2901/viz/WorldHappinessReport_16778122795140/Dashboard1?publish=yes
+
 
 ## Data:
 
 https://happiness-report.s3.amazonaws.com/2022/DataForTable2.1.xls
 
-https://public.tableau.com/app/profile/jeremy.lopez8376/viz/WorldHappinessCapstone_16781816081730/WorldHappinessCapstone?publish=yes
