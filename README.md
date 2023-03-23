@@ -73,8 +73,8 @@ The heatmap above shows that life ladder, gdp per capita, freedom to make choice
 
 The heatmap above shows that life ladder, gdp per capita, freedom to make choices, healthy life, generosity, perception of corruption, social support, and confidence in the government all contribute to the happiness score. However, people's perceptions of corruption and the freedom to make life choices scored higher.
 
-### Summary:
-The following columns: GDP per Capita, Life ladder, Social Support, Healthy life expectancy, Freedom to make life choices, Generosity, and Perceptions of Government corruption, describe the extent to which these factors contribute to evaluating the happiness in each country. After conducting the visual analysis for the world happiness report from (2015-2021), the scores of these factors differed for each country and each region. But Western Europe, Australia/New Zealand dominated the top of the charts in most of the categories.  While countries such as Afghanistan, listed as one of the bottom ten countries, consistently scored low within its region in most categories.  While these factors were an essential part of the evaluations of happiness reports, many other variables influence life satisfaction, but they are hard to measure perfectly.
+## Summary:
+The following columns: GDP per Capita, Life ladder, Social Support, Healthy life expectancy, Freedom to make life choices, Generosity, and Perceptions of Government corruption, describe the extent to which these factors contribute to evaluating the happiness in each country. After conducting the visual analysis for the world happiness report from (2015-2021), the scores of these factors differed for each country and each region. But Northern and Western Europe, Australia/New Zealand dominated the top of the charts in most of the categories.  While countries such as Afghanistan and Lebanon, listed as one of the bottom ten countries, consistently scored low within their region in most categories.  While these factors were an essential part of the evaluations of happiness reports, many other variables influence life satisfaction, but they are hard to measure perfectly.
 
 
 ## Data:
